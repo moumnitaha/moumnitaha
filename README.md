@@ -10,9 +10,9 @@ moumnitaha/moumnitaha is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/moumnitaha?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moumnitaha&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moumnitaha&theme=light"/>
 </a>
 
 <a href="https://github.com/moumnitaha?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=moumnitaha&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=moumnitaha&line_height=40&show_icons=true&theme=light">
 </a>
