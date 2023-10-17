@@ -17,12 +17,12 @@ You can click the Preview link to take a look at your changes.
   </td>
   <td>
     <a href="https://github.com/moumnitaha?tab=repositories">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moumnitaha&theme=light"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moumnitaha&theme=dark"/>
     </a>
   </td>
   <td>
     <a href="https://github.com/moumnitaha?tab=repositories">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=moumnitaha&line_height=40&show_icons=true&theme=light">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=moumnitaha&line_height=40&show_icons=true&theme=dark">
     </a>
   </td>
 </table>
